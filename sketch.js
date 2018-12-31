@@ -4,7 +4,7 @@ var gravity;
 function setup() {
   createCanvas(1024, 768)
   colorMode(HSB);
-  gravity = createVector(0, 0.03);
+  gravity = createVector(0, 0.09);
   stroke(255);
   strokeWeight(4);
   background(0);
